@@ -1,0 +1,60 @@
+{
+  "_from": "react-native-month-selector",
+  "_id": "react-native-month-selector@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-gAacYdDU5MxfXxWQR7hdwyz4M/pGht4IB3rH+z2oaiAZ/g+OxuLyZj2CLXp9lWcCZySY8x7ugxkrD8wjyjAVdQ==",
+  "_location": "/react-native-month-selector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-month-selector",
+    "name": "react-native-month-selector",
+    "escapedName": "react-native-month-selector",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-month-selector/-/react-native-month-selector-1.2.0.tgz",
+  "_shasum": "1f2fd668fe46fdabb34ebf2f891ee5f5b9b975fb",
+  "_spec": "react-native-month-selector",
+  "_where": "C:\\Users\\User\\Desktop\\skripsi\\skripsi-mobile",
+  "author": {
+    "name": "Vinod Prajapati"
+  },
+  "bugs": {
+    "url": "https://github.com/vinodkumar8/react-native-month-selector/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "deprecated": false,
+  "description": "Month selector in react native",
+  "homepage": "https://github.com/vinodkumar8/react-native-month-selector#readme",
+  "keywords": [
+    "react-native",
+    "month",
+    "selector"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-month-selector",
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-native": "^0.48.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodkumar8/react-native-month-selector.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
